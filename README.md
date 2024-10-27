@@ -3,8 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/amanda-santos/tourist-location?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/amanda-santos/tourist-location?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/amanda-santos/tourist-location?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amanda-santos/tourist-location?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/amanda-santos/tourist-location?style=for-the-badge)
 
 <img src="assets/cover.png" alt="Preview image of the project Tourist Location containing the website page.">
 
