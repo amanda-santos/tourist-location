@@ -1,4 +1,4 @@
-# Tourist Location
+# 🚠 Tourist Location
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/amanda-santos/tourist-location?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/amanda-santos/tourist-location?style=for-the-badge)
